@@ -1,0 +1,44 @@
+@font-face {
+  src: url(font/Cocogoose\ Pro\ Light-trial.ttf) format('truetype');
+  font-family: Techno;
+}
+
+.nav-color {
+  background-color: darkred;
+}
+body, html {
+  height: 10%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  max-height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: silver;
+}
+.img1 { background-image: url("crcheader.png"); 
+}
+
+
+.text-customm {
+  color: black;
+  font-family: Techno ;
+}
+.text-custom {
+  font-size: 20px;
+}
+.vid {
+  max-width: 90%;
+}
+.imggal img{
+  max-height: 300px;
+}
+
+
